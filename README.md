@@ -1,3 +1,23 @@
-As I have always been passionate about Automobiles, what better place to learn about automobiles than an institution that has an entire campus dedicated to them? The level of research that goes on at CU-ICAR is something that the world has heard of. Moreover, apart from the state-of-the-art labs and research facilities, the Deep Orange Program is something that has always caught my eye. Building a car from absolutely nothing, funded by a big powerhouse of the automotive domain, will be a learning experience like next to none and something that I eagerly want to be a part of. I was born in Cuttack, Orissa, which lies in the eastern part of India. My father was in the sales business, as a result we have had to travel a lot. I have lived in Meerut, Calcutta, Delhi, Kanpur, Mumbai and currently my family is based out of Hyderabad. I was also staying in Chennai during my undergraduate years, and in Pune for work. I have completed my undergraduate studies from Vellore Institute of Technology and have majored in Mechanical Engineering. During my undergraduate degree, I co-founded Team BLITZ, which was the university’s first go-karting team. The team had taken part in the National Go-Karting Championship held annually in Kolhapur, India.After completing my undergraduate studies, I was working in Cognizant Technology Solutions for 11 months as a Programmer Analyst. However, my interest always lay in the automotive domain, and I left my job to join Rheinmetall Automotive as an R&D Engineer in its Mechatronics Department, working there for 1 year and 10 months and was responsible for the designing of Exhaust Gas Recirculation Systems. I was leading three projects and apart from the design and development, my team was also responsible for the fabrication and testing of prototype parts.
+PART 1: Circle.py
 
-This repository will contain all the programs that will be written and projects that will be done in this course for the Spring semester.
+In this program, the turtle moves along a circular path with a constant angular speed of 5 rad/s and a linear velocity of 3 unit/s.
+A function is created plotCircle to plot the trajectory of the turtle.
+To run Circle.py run the Launcher file cleaner_py.launch.
+
+
+PART 2: Square_closedloop.py
+
+In this program, the turtle is expected to traverse the path of a square with a angular speed of 0.2 rad/s and linear velocity of 2 units/s.
+The angular velocity is used to change the orientation of the turtle bot. A function move is written to traverse the bot in the linear direction.
+The rotate function is to rotate the turtle in the direction of motion.
+To run Square_closedloop.py run the Launcher file Launcher_closedloop.launch.
+
+
+PART 3: Sqaure_openloop.py
+
+In this program, the turtle is expected to traverse the path of a square with a angular speed of 0.2 rad/s and linear velocity of 2 units/s.
+The angular velocity is used to change the orientation of the turtle bot. A function move is written to traverse the bot in the linear direction.
+The rotate function is to rotate the turtle in the direction of motion.
+To run Sqaure_openloop.py run the Launcher file Launcher_openloop.launch.
+
+
