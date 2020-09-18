@@ -1,7 +1,7 @@
 # Team Name: TMNT (Teenage Mutant Ninja Turtles)	
 
 ## Team Number: 03  
-### Team Members: <img align="right" width="300" height="226" src="https://raw.githubusercontent.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/master/catkin_ws/git_readme_files/ninja_turtles_PNG55.png">   	
+### Team Members: <img align="right" width="300" height="226" src="https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/git_readme_files/ninja_turtles_PNG55.png">   	
 		Akshay Mahajan 
 		Ashit Mohanty  
 		Manu Srivastava  
@@ -21,13 +21,13 @@
 The commands that need to be executed in the terminal are as follows:
 
 ```
-$ roslaunch assignment3_turtlebot3 move.launch code:=square    #for running square.py
+$ roslaunch assignment3 move.launch code:=square    #for running square.py
 	  
-$ roslaunch assignment3_turtlebot3 move.launch code:=circle    #for running circle.py
+$ roslaunch assignment3 move.launch code:=circle    #for running circle.py
 ```
 
 
-![Watch the video](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/blob/master/catkin_ws/git_readme_files/move.gif)
+![Watch the video](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/git_readme_files/move.gif)
       
  
 #### Part 2:  Launch file name: emergency_braking.launch
@@ -43,20 +43,9 @@ $ roslaunch assignment3_turtlebot3 move.launch code:=circle    #for running circ
 The command that need to be executed in the terminal are as follows:
 
 ``` 
-$ roslaunch assignment3_turtlebot3 emergency_braking.launch    #for running emergency_brake.py
+$ roslaunch assignment3 emergency_braking.launch    #for running emergency_brake.py
 ```
  
 
-![Watch the video](https://raw.githubusercontent.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/master/catkin_ws/git_readme_files/obstacle_detection.gif)
+![Watch the video](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/git_readme_files/obstacle_detection.gif)
   
-    
- 
-### Work Distribution
-
-<pre>
-Vipul Kumbhar 	: LiDAR data processing, Recording Videos and writing README.md   
-Akshay Mahajan	: Creating move.launch file  
-Ashit Mohanty 	: Emergency Braking Maneuver python code  
-Manu Srivastava	: Creating Gazebo environment, modifying circle.py and square.py and pushing into repo  
-Siddhesh Bagkar	: Creating turtlebot3_wall.launch file  
-</pre>
