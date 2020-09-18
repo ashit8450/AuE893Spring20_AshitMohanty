@@ -18,5 +18,5 @@ This repository consists of the assignments and project done in the subject cour
 ### [HW5](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/tree/master/catkin_ws/src/tb3_line_following)   
     
   
-### [Final Project](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/tree/master/catkin_ws/src/auefinals)   
+### [Final Project](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/tree/master/catkin_ws/src/auefinals/turtlebot3_auefinals)   
    
