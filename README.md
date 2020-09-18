@@ -1,6 +1,6 @@
 # AuE893: Autonomy Sciences and System
 
-This repository consists of the assignments and project done in the subject course AUE8930-Autonomy Sciences and Systems, during the Spring Semester 2019 at Clemson University. 
+This repository consists of the assignments and project done in the subject course AUE8930-Autonomy Sciences and Systems, during the Spring Semester 2019 at Clemson University. The link to every assignment and final project is attached underneath. The repository has the relvant launch files as well as scripts in the partiucular assignment/project folder. 
 
 ## Information for use of this repository:
 1) Workspace: Ubuntu 16.04, ROS Kinetic Kame
