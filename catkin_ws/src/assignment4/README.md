@@ -1,7 +1,7 @@
 # Team Name: TMNT (Teenage Mutant Ninja Turtles)	
 
 ## Team Number: 03  
-### Team Members: <img align="right" width="300" height="226" src="https://raw.githubusercontent.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/master/catkin_ws/git_readme_files/ninja_turtles_PNG55.png">   	
+### Team Members: <img align="right" width="300" height="226" src="https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/git_readme_files/ninja_turtles_PNG55.png">   	
 		Akshay Mahajan 
 		Ashit Mohanty  
 		Manu Srivastava  
@@ -47,14 +47,14 @@ The commands that need to be executed in the terminal for gazebo simulation are 
 ```
 $ roslaunch assignment4 turtlebot3_wallfollowing.launch       
 ```
-![Watch the video](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/blob/master/catkin_ws/src/assignment4/video/gazebo/wall_following.gif)
+![Watch the video](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/src/assignment4/video/gazebo/wall_following.gif)
 
 The commands that need to be executed in the terminal for turtlebot3 burger run are as follows:
 
 ```
 $ rosrun assignment4 turtlebot3_wallfollowing.py       
 ```
-![Watch the video](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/blob/master/catkin_ws/src/assignment4/video/turtlebot3burger/wallfollowing_real.gif)
+![Watch the video](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/src/assignment4/video/turtlebot3burger/wallfollowing_real.gif)
 
   
 #### Part 2:  Launch file name: turtlebot3_obstacleavoidance.launch  
@@ -102,7 +102,7 @@ The commands that need to be executed in the terminal for gazebo simulation are 
 ```
 $ roslaunch assignment4 turtlebot3_obstacleavoidance.launch    
 ```
-![Watch the video](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/blob/master/catkin_ws/src/assignment4/video/gazebo/obstacle_avoidance.gif)
+![Watch the video](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/src/assignment4/video/gazebo/obstacle_avoidance.gif)
 
 The commands that need to be executed in the terminal for turtlebot3 burger run are as follows:
 
@@ -110,21 +110,12 @@ The commands that need to be executed in the terminal for turtlebot3 burger run 
 $ rosrun assignment4 turtlebot3_wander.py       
 ```
 
-![Watch the video](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/blob/master/catkin_ws/src/assignment4/video/turtlebot3burger/obstacleavoidance_real.gif)
+![Watch the video](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/src/assignment4/video/turtlebot3burger/obstacleavoidance_real.gif)
 
 ### File locations:
-#### - [Launch files](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/tree/master/catkin_ws/src/assignment4/launch)     
+#### - [Launch files](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/tree/master/catkin_ws/src/assignment4/launch)     
 #### - Script files    
-[1) Gazebo](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/tree/master/catkin_ws/src/assignment4/script)     
-[2) Turtlebot3 burger](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/tree/master/catkin_ws/src/assignment4/src)      
-#### - [Videos](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/tree/master/catkin_ws/src/assignment4/video)
+[1) Gazebo](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/tree/master/catkin_ws/src/assignment4/scriptt)     
+[2) Turtlebot3 burger](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/tree/master/catkin_ws/src/assignment4/src)      
+#### - [Videos](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/tree/master/catkin_ws/src/assignment4/video)
 
-### Work Distribution
-
-<pre>
-Vipul Kumbhar 	: Wallfollowing, obstacle avoidance scripts and launch files  
-Akshay Mahajan	:  
-Ashit Mohanty 	:  
-Manu Srivastava	:   
-Siddhesh Bagkar	:  
-</pre>
