@@ -1,7 +1,7 @@
 # Team Name: TMNT (Teenage Mutant Ninja Turtles)	
 
 ## Team Number: 03  
-### Team Members: <img align="right" width="300" height="226" src="https://raw.githubusercontent.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/master/catkin_ws/git_readme_files/ninja_turtles_PNG55.png">   	
+### Team Members: <img align="right" width="300" height="226" src="https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/git_readme_files/ninja_turtles_PNG55.png">   	
 		Akshay Mahajan 
 		Ashit Mohanty  
 		Manu Srivastava  
@@ -53,8 +53,7 @@ The commands that need to be executed in the terminal for gazebo simulation are 
 ```
 $ roslaunch tb3_line_following turtlebot3_follow_line.launch       
 ```
-![Watch the video](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/blob/master/catkin_ws/src/tb3_line_following/videos/gifs_for_readme/lane_following_gazebo.GIF)
-#### - [Videos](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/tree/master/catkin_ws/src/tb3_line_following/videos/lane_following) - Full length videos of lane following task
+![Watch the video](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/src/tb3_line_following/videos/gifs_for_readme/lane_following_gazebo.GIF)
 
 Launch file name: turtlebot3_follow_line_bot.launch (launches follow_lane_step_hsv_bot.py)
 <pre>
@@ -77,11 +76,10 @@ The commands that need to be executed in the remote -pc terminal for real turtle
 ```
 $ roslaunch tb3_line_following turtlebot3_follow_line_bot.launch       
 ```
-![Watch the video](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/blob/master/catkin_ws/src/tb3_line_following/videos/gifs_for_readme/lane_following.GIF)
+![Watch the video](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/src/tb3_line_following/videos/gifs_for_readme/lane_following.GIF)
 
-![Watch the video](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/blob/master/catkin_ws/src/tb3_line_following/videos/gifs_for_readme/Lane_following_turtlebot.GIF)
+![Watch the video](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/src/tb3_line_following/videos/gifs_for_readme/Lane_following_turtlebot.GIF)
 
-#### - [Videos](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/tree/master/catkin_ws/src/tb3_line_following/videos/lane_following) - Full length videos of lane following task
   
 #### Part 2:  April tag follower 
 - Script info:  wallfollowing.py script is mainly divided in four parts.      
@@ -144,23 +142,13 @@ The command that need to be executed in remote-pc to run april tag follower is a
 ```
 $ roslaunch tb3_line_following turtlebot3_follow_ar.launch   
 ```
-![Watch the video](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/blob/master/catkin_ws/src/tb3_line_following/videos/gifs_for_readme/April_tag_following_turtlebot.GIF)
+![Watch the video](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/src/tb3_line_following/videos/gifs_for_readme/April_tag_following_turtlebot.GIF)
 
-![Watch the video](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/blob/master/catkin_ws/src/tb3_line_following/videos/gifs_for_readme/april_tag_real_bot.gif)
+![Watch the video](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/blob/master/catkin_ws/src/tb3_line_following/videos/gifs_for_readme/april_tag_real_bot.gif)
 
-#### - [Videos](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/tree/master/catkin_ws/src/tb3_line_following/videos/april_tag) - Full length videos of april tag following task
 
 ### File locations:
-#### - [Launch files](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/tree/master/catkin_ws/src/tb3_line_following/launch)     
-#### - [Script files](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/tree/master/catkin_ws/src/tb3_line_following/scripts)  
-#### - [Videos](https://github.com/vipulkumbhar/AuE893Spring20_VipulKumbhar/tree/master/catkin_ws/src/tb3_line_following/videos)
+#### - [Launch files](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/tree/master/catkin_ws/src/tb3_line_following/launch)     
+#### - [Script files](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/tree/master/catkin_ws/src/tb3_line_following/scripts)  
+#### - [Videos](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/tree/master/catkin_ws/src/tb3_line_following/videos/gifs_for_readme)
 
-### Work Distribution
-
-<pre>
-Vipul Kumbhar 	: Code and h/w transition + readme file  
-Akshay Mahajan	: camera data debugging
-Ashit Mohanty 	: Environment setup and h/w transition
-Manu Srivastava	: lane follower simulations + environment setup
-Siddhesh Bagkar	: April tag simulations + environment setup
-</pre>
