@@ -5,7 +5,7 @@ This repository consists of the assignments and project done in the subject cour
 ## Information for use of this repository:
 1) Workspace: Ubuntu 16.04, ROS Kinetic Kame
 
-
+## Assignments and Project:
 ### [HW2](https://github.com/ashit8450/AuE893Spring20_AshitMohanty/tree/master/catkin_ws/src/assignment2_ws)
 
 
